@@ -13,9 +13,9 @@ This is a simple command-line task manager program written in Python. It allows 
 ## Getting Started
 
 1. Clone the repository to your local machine.
-  ```bash
-  git clone https://github.com/oskar-gmerek/finalCapstone
-```
+   ```bash
+   git clone https://github.com/oskar-gmerek/finalCapstone
+   ```
 2. Navigate to the project directory
    ```bash
    cd task_manager
