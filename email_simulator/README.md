@@ -2,6 +2,13 @@
 This project simulates an email inbox using object-oriented programming in Python. It allows you to populate a sample inbox with emails, view unread emails, read specific emails, and mark emails as read.
 ---
 
+## Installation
+This program no need an installation. You can clone repository and run:
+```bash
+cd email_simulator
+python email_simulator.py
+```
+
 ## Usage
 To use this email simulator:
 
