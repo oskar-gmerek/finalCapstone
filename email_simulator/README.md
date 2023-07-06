@@ -23,4 +23,4 @@ To use this email simulator:
 
 
 ## Credits
-This project was created by @oskar-gmerek as part of the HyperionDev Software Engineering Bootcamp.
+This project was created by [Oskar Gmerek](https://github.com/oskar-gmerek) as part of the HyperionDev Software Engineering Bootcamp.
