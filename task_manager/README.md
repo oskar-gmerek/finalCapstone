@@ -24,8 +24,7 @@ This is a simple command-line task manager program written in Python. It allows 
 4. Run the script using a Python interpreter `python student_register.py` from student_register folder.
 
 ## Usage
-Run program `python student_register.py`
- Use prompt menu to navigate.
+Run program `python student_register.py` and use prompt menu to navigate.
 
  ### User Registration
 - To register a new user, run the program and choose the option to register.
